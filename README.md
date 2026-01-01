@@ -1,1 +1,1 @@
-## This project demonstrates how we can apply a linear regression model to real world datasets and make predictions.
+## This project I will be sharing all that I made in the process of learning Deep Learning.
